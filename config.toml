@@ -1,0 +1,30 @@
+baseURL = 'https://tsingwang.github.io/'
+languageCode = 'zh-cn'
+title = 'Thoughts by tsing'
+theme = 'flat'
+enableRobotsTXT = true
+paginate = 10
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = false
+noClasses = false
+noHl = false
+style = 'monokailight'
+tabWidth = 4
+
+#[[menus.main]]
+#name = "Posts"
+#url = "/posts/"
+#weight = 30
+
+#[[menus.main]]
+#pageref = "about"
+#name = "About"
+#weight = 80

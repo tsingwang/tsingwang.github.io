@@ -1,7 +1,7 @@
 ---
 title: "再次搭建 blog"
 date: 2023-04-05T10:54:16+08:00
-categories: [misc]
+categories: [杂记]
 tags: []
 katex: false
 draft: false

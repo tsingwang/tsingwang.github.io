@@ -380,7 +380,7 @@ body {
 
 .side ul { margin: 0; padding: 0; }
 
-.side li            { margin-bottom: var(--len-3); }
+.side li            { margin-bottom: var(--len-2); }
 .side li:last-child { margin-bottom: 0; }
 
 .side hr {
@@ -393,7 +393,7 @@ body {
 
 .side > * { padding: var(--len-4); }
 
-.side > *            { margin-bottom: var(--len-3); }
+.side > *            { margin-bottom: var(--len-2); }
 .side > *:last-child { margin-bottom: 0; }
 
 .side a       { color: var(--color-fg-font-normal); text-decoration: none; }

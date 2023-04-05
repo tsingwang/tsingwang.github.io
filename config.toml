@@ -3,6 +3,7 @@ languageCode = 'zh-cn'
 title = 'Thoughts by tsing'
 theme = 'flat'
 enableRobotsTXT = true
+hasCJKLanguage = true
 paginate = 10
 
 [markup.highlight]

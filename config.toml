@@ -1,6 +1,6 @@
 baseURL = 'https://tsingwang.github.io/'
 languageCode = 'zh-cn'
-title = 'Thoughts by tsing'
+title = 'A little thoughts by Tsing'
 theme = 'flat'
 enableRobotsTXT = true
 hasCJKLanguage = true
@@ -20,10 +20,23 @@ noHl = false
 style = 'monokailight'
 tabWidth = 4
 
-#[[menus.main]]
-#name = "Posts"
-#url = "/posts/"
-#weight = 30
+[params]
+mainSections = ['posts']
+
+## uncomment belows and set proper values to enable remark42
+# [params.remark42]
+# host=''
+# site_id=''
+# max_shown_comments=100
+# theme='light'
+# locale='en'
+# show_email_subscription=false
+# simple_view=true
+
+[[menus.main]]
+name = "Wiki"
+url = "https://tsingwang.github.io/wiki/"
+weight = 30
 
 #[[menus.main]]
 #pageref = "about"

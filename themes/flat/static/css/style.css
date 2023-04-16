@@ -1,7 +1,7 @@
 /* defines light color */
 :root {
   /*--color-light-bg-page: #EBEBEB;*/
-  --color-light-bg-page: #e5e7eb;
+  --color-light-bg-page: #e2e2e2;
   --color-light-bg-content: #F4F4F4;
   /*--color-light-bg-block: #EBEBEB;*/
   --color-light-bg-block: #e5e7eb;
@@ -180,6 +180,7 @@ body {
 .side-tags
 {
   background-color: var(--color-bg-content);
+  border-radius: 3px;
 }
 
 /* place header in the center of header-wrapper */

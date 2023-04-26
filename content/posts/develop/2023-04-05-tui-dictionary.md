@@ -1,7 +1,7 @@
 ---
 title: "命令行词典"
 date: 2023-04-05T14:14:10+08:00
-categories: [开发]
+categories: [编程]
 tags: [词典,命令行]
 katex: false
 draft: false

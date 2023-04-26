@@ -1,4 +1,5 @@
 baseURL = 'https://tsingwang.github.io/'
+googleAnalytics = 'G-S6RJ272SMM'
 languageCode = 'zh-cn'
 title = 'A little thoughts by Tsing'
 theme = 'flat'

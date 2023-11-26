@@ -53,6 +53,7 @@
   --color-fg-pager:           var(--color-light-fg-pager);
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg-page:            var(--color-dark-bg-page);
@@ -71,6 +72,7 @@
     --color-fg-pager:           var(--color-dark-fg-pager);
   }
 }
+*/
 
 :root {
   --fonts-default: verdana, helvetica, arial, sans-serif;
